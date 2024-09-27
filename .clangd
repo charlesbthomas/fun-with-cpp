@@ -1,2 +1,2 @@
 CompileFlags:
-  CompilationDatabase: build/
+  Add: -I/home/chrls/workspace/fun-with-cpp/build/external
